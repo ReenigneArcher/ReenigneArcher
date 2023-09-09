@@ -68,3 +68,4 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 | https://github.com/pkkid/python-plexapi/pull/1229                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1229?style=for-the-badge)                       |
 | https://github.com/linuxserver/docker-mods/pull/755                     | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/linuxserver/docker-mods/755?style=for-the-badge)                     |
 | https://github.com/linuxserver/docker-jellyfin/pull/214                 | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/linuxserver/docker-jellyfin/214?style=for-the-badge)                 |
+| https://github.com/pkkid/python-plexapi/pull/1240                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1240?style=for-the-badge)                       |
