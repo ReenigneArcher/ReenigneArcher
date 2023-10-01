@@ -4,7 +4,29 @@ I want to automate every single thing.
 
 I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated to cloud gaming solutions.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ReenigneArcher&theme=dark)](https://github.com/ReenigneArcher)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&theme=dark&text_color=ffffff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000" />
+</picture>
+<br>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=ReenigneArcher&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=ReenigneArcher"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=ReenigneArcher" />
+</picture>
 
 ## LizardByte Projects
 
