@@ -94,4 +94,5 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 | https://github.com/linuxserver/docker-jellyfin/pull/214                 | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/linuxserver/docker-jellyfin/214?style=for-the-badge)                 |
 | https://github.com/pkkid/python-plexapi/pull/1240                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1240?style=for-the-badge)                       |
 | https://github.com/oddstr13/jellyfin-plugin-repository-manager/pull/99  | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/oddstr13/jellyfin-plugin-repository-manager/99?style=for-the-badge)  |
+| https://github.com/pkkid/python-plexapi/pull/1258                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1258?style=for-the-badge)                       |
 | https://github.com/ansible/ansible-lint/pull/3798                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/ansible/ansible-lint/3798?style=for-the-badge)                       |
