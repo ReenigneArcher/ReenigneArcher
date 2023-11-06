@@ -97,3 +97,4 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 | https://github.com/pkkid/python-plexapi/pull/1258                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1258?style=for-the-badge)                       |
 | https://github.com/ansible/ansible-lint/pull/3798                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/ansible/ansible-lint/3798?style=for-the-badge)                       |
 | https://github.com/pkkid/python-plexapi/pull/1266                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1266?style=for-the-badge)                       |
+| https://github.com/pkkid/python-plexapi/pull/1282                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1282?style=for-the-badge)                       |
