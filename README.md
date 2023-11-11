@@ -55,46 +55,110 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 
 ## Open Source Contributions
 
-| Owner/Repo#PR                                                           | Status                                                                                                                                       |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| https://github.com/libretro/retroarch-joypad-autoconfig/pull/636        | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/libretro/retroarch-joypad-autoconfig/636?style=for-the-badge)        |
-| https://github.com/libretro/retroarch-joypad-autoconfig/pull/640        | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/libretro/retroarch-joypad-autoconfig/640?style=for-the-badge)        |
-| https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/pull/275 | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/moralmunky/Home-Assistant-Mail-And-Packages/275?style=for-the-badge) |
-| https://github.com/twitchtv/igdb-api-python/pull/7                      | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/twitchtv/igdb-api-python/7?style=for-the-badge)                      |
-| https://github.com/libretro/libretro-super/pull/1564                    | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/libretro/libretro-super/1564?style=for-the-badge)                    |
-| https://github.com/hugo19941994/auto-datfile-generator/pull/6           | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/hugo19941994/auto-datfile-generator/6?style=for-the-badge)           |
-| https://github.com/libretro/libretro-super/pull/1586                    | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/libretro/libretro-super/1586?style=for-the-badge)                    |
-| https://github.com/libretro/libretro-super/pull/1587                    | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/libretro/libretro-super/1587?style=for-the-badge)                    |
-| https://github.com/openatx/adbutils/pull/57                             | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/openatx/adbutils/57?style=for-the-badge)                             |
-| https://github.com/pkkid/python-plexapi/pull/879                        | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/879?style=for-the-badge)                        |
-| https://github.com/pkkid/python-plexapi/pull/880                        | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/880?style=for-the-badge)                        |
-| https://github.com/AppImage/appimage.github.io/pull/2881                | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/AppImage/appimage.github.io/2881?style=for-the-badge)                |
-| https://github.com/AppImage/docs.appimage.org/pull/75                   | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/AppImage/docs.appimage.org/75?style=for-the-badge)                   |
-| https://github.com/AppImage/docs.appimage.org/pull/76                   | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/AppImage/docs.appimage.org/76?style=for-the-badge)                   |
-| https://github.com/twitchtv/igdb-api-python/pull/18                     | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/twitchtv/igdb-api-python/18?style=for-the-badge)                     |
-| https://github.com/hapakaien/archlinux-package-action/pull/27           | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/hapakaien/archlinux-package-action/27?style=for-the-badge)           |
-| https://github.com/hapakaien/archlinux-package-action/pull/28           | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/hapakaien/archlinux-package-action/28?style=for-the-badge)           |
-| https://github.com/pkkid/python-plexapi/pull/1039                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1039?style=for-the-badge)                       |
-| https://github.com/games-on-whales/gow/pull/123                         | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/games-on-whales/gow/123?style=for-the-badge)                         |
-| https://github.com/jellyfin/jellyfin.org/pull/370                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/jellyfin/jellyfin.org/370?style=for-the-badge)                       |
-| https://github.com/oddstr13/jellyfin-plugin-repository-manager/pull/83  | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/oddstr13/jellyfin-plugin-repository-manager/83?style=for-the-badge)  |
-| https://github.com/jellyfin/jellyfin.org/pull/376                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/jellyfin/jellyfin.org/376?style=for-the-badge)                       |
-| https://github.com/oddstr13/jellyfin-plugin-repository-manager/pull/85  | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/oddstr13/jellyfin-plugin-repository-manager/85?style=for-the-badge)  |
-| https://github.com/breathe-doc/breathe/pull/896                         | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/breathe-doc/breathe/896?style=for-the-badge)                         |
-| https://github.com/breathe-doc/breathe/pull/899                         | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/breathe-doc/breathe/899?style=for-the-badge)                         |
-| https://github.com/mshick/add-pr-comment/pull/78                        | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/mshick/add-pr-comment/78?style=for-the-badge)                        |
-| https://github.com/pkkid/python-plexapi/pull/1219                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1219?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1220                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1220?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1221                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1221?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1222                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1222?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1227                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1227?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1228                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1228?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1229                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1229?style=for-the-badge)                       |
-| https://github.com/linuxserver/docker-mods/pull/755                     | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/linuxserver/docker-mods/755?style=for-the-badge)                     |
-| https://github.com/linuxserver/docker-jellyfin/pull/214                 | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/linuxserver/docker-jellyfin/214?style=for-the-badge)                 |
-| https://github.com/pkkid/python-plexapi/pull/1240                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1240?style=for-the-badge)                       |
-| https://github.com/oddstr13/jellyfin-plugin-repository-manager/pull/99  | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/oddstr13/jellyfin-plugin-repository-manager/99?style=for-the-badge)  |
-| https://github.com/pkkid/python-plexapi/pull/1258                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1258?style=for-the-badge)                       |
-| https://github.com/ansible/ansible-lint/pull/3798                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/ansible/ansible-lint/3798?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1266                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1266?style=for-the-badge)                       |
-| https://github.com/pkkid/python-plexapi/pull/1282                       | ![GitHub Pull Request](https://img.shields.io/github/pulls/detail/state/pkkid/python-plexapi/1282?style=for-the-badge)                       |
+<a href="https://github.com/pkkid/python-plexapi/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="pkkid/python-plexapi"
+    src="https://img.shields.io/github/issues-search/pkkid/python-plexapi?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=pkkid/python-plexapi" />
+</a>
+
+<a href="https://github.com/hapakaien/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/hapakaien/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=hapakaien/archlinux-package-action" />
+</a>
+
+<a href="https://github.com/oddstr13/jellyfin-plugin-repository-manager/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/oddstr13/jellyfin-plugin-repository-manager?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=oddstr13/jellyfin-plugin-repository-manager" />
+</a>
+
+<a href="https://github.com/libretro/libretro-super/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/libretro/libretro-super?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/libretro-super" />
+</a>
+
+<a href="https://github.com/libretro/retroarch-joypad-autoconfig/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="libretro/retroarch-joypad-autoconfig"
+    src="https://img.shields.io/github/issues-search/libretro/retroarch-joypad-autoconfig?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/retroarch-joypad-autoconfig" />
+</a>
+
+<a href="https://github.com/twitchtv/igdb-api-python/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/twitchtv/igdb-api-python?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=igdb&label=twitchtv/igdb-api-python" />
+</a>
+
+<a href="https://github.com/jellyfin/jellyfin.org/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin.org" />
+</a>
+
+<a href="https://github.com/games-on-whales/gow/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/games-on-whales/gow?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/gow" />
+</a>
+
+<a href="https://github.com/AppImage/docs.appimage.org/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/AppImage/docs.appimage.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/docs.appimage.org" />
+</a>
+
+<a href="https://github.com/breathe-doc/breathe/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/breathe-doc/breathe?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=sphinx&label=breathe-doc/breathe" />
+</a>
+
+<a href="https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="moralmunky/Home-Assistant-Mail-And-Packages"
+    src="https://img.shields.io/github/issues-search/moralmunky/Home-Assistant-Mail-And-Packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homeassistant&label=moralmunky/Home-Assistant-Mail-And-Packages" />
+</a>
+
+<a href="https://github.com/hugo19941994/auto-datfile-generator/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="hugo19941994/auto-datfile-generator"
+    src="https://img.shields.io/github/issues-search/hugo19941994/auto-datfile-generator?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=hugo19941994/auto-datfile-generator" />
+</a>
+
+<a href="https://github.com/openatx/adbutils/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/openatx/adbutils?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android&label=openatx/adbutils" />
+</a>
+
+<a href="https://github.com/AppImage/appimage.github.io/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
+</a>
+
+<a href="https://github.com/ansible/ansible-lint/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/ansible/ansible-lint?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=ansible&label=ansible/ansible-lint" />
+</a>
+
+<a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/linuxserver/docker-jellyfin?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-jellyfin" />
+</a>
+
+<a href="https://github.com/linuxserver/docker-mods/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/linuxserver/docker-mods?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-mods" />
+</a>
+
+<a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="python-plexapi"
+    src="https://img.shields.io/github/issues-search/mshick/add-pr-comment?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=mshick/add-pr-comment" />
+</a>
