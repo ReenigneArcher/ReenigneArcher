@@ -63,19 +63,19 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 
 <a href="https://github.com/hapakaien/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="hapakaien/archlinux-package-action"
     src="https://img.shields.io/github/issues-search/hapakaien/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=hapakaien/archlinux-package-action" />
 </a>
 
 <a href="https://github.com/oddstr13/jellyfin-plugin-repository-manager/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="oddstr13/jellyfin-plugin-repository-manager"
     src="https://img.shields.io/github/issues-search/oddstr13/jellyfin-plugin-repository-manager?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=oddstr13/jellyfin-plugin-repository-manager" />
 </a>
 
 <a href="https://github.com/libretro/libretro-super/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="libretro/libretro-super"
     src="https://img.shields.io/github/issues-search/libretro/libretro-super?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/libretro-super" />
 </a>
 
@@ -87,31 +87,37 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 
 <a href="https://github.com/twitchtv/igdb-api-python/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="twitchtv/igdb-api-python"
     src="https://img.shields.io/github/issues-search/twitchtv/igdb-api-python?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=igdb&label=twitchtv/igdb-api-python" />
 </a>
 
 <a href="https://github.com/jellyfin/jellyfin.org/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="jellyfin/jellyfin.org"
     src="https://img.shields.io/github/issues-search/jellyfin/jellyfin.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin.org" />
 </a>
 
 <a href="https://github.com/games-on-whales/gow/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="games-on-whales/gow"
     src="https://img.shields.io/github/issues-search/games-on-whales/gow?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/gow" />
 </a>
 
 <a href="https://github.com/AppImage/docs.appimage.org/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="AppImage/docs.appimage.org"
     src="https://img.shields.io/github/issues-search/AppImage/docs.appimage.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/docs.appimage.org" />
+</a>
+
+<a href="https://github.com/ytdl-org/youtube-dl/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="ytdl-org/youtube-dl"
+    src="https://img.shields.io/github/issues-search/ytdl-org/youtube-dl?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=youtube&label=ytdl-org/youtube-dl" />
 </a>
 
 <a href="https://github.com/breathe-doc/breathe/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="breathe-doc/breathe"
     src="https://img.shields.io/github/issues-search/breathe-doc/breathe?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=sphinx&label=breathe-doc/breathe" />
 </a>
 
@@ -129,36 +135,36 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 
 <a href="https://github.com/openatx/adbutils/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="openatx/adbutils"
     src="https://img.shields.io/github/issues-search/openatx/adbutils?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android&label=openatx/adbutils" />
 </a>
 
 <a href="https://github.com/AppImage/appimage.github.io/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="AppImage/appimage.github.io"
     src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
 </a>
 
 <a href="https://github.com/ansible/ansible-lint/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="ansible/ansible-lint"
     src="https://img.shields.io/github/issues-search/ansible/ansible-lint?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=ansible&label=ansible/ansible-lint" />
 </a>
 
 <a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="linuxserver/docker-jellyfin"
     src="https://img.shields.io/github/issues-search/linuxserver/docker-jellyfin?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-jellyfin" />
 </a>
 
 <a href="https://github.com/linuxserver/docker-mods/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="linuxserver/docker-mods"
     src="https://img.shields.io/github/issues-search/linuxserver/docker-mods?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-mods" />
 </a>
 
 <a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="python-plexapi"
+    alt="mshick/add-pr-comment"
     src="https://img.shields.io/github/issues-search/mshick/add-pr-comment?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=mshick/add-pr-comment" />
 </a>
