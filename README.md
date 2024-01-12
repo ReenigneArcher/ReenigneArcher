@@ -53,7 +53,12 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
 | [ThemerrDB](https://github.com/LizardByte/ThemerrDB)                             | ![GitHub Stars](https://img.shields.io/github/stars/LizardByte/ThemerrDB?style=for-the-badge)                            ![GitHub Top Language](https://img.shields.io/github/languages/top/LizardByte/ThemerrDB?style=for-the-badge)                            ![GitHub issues](https://img.shields.io/github/issues-raw/LizardByte/ThemerrDB?style=for-the-badge)                            <br> Movie and Video Game Theme Song Database. Database populated via codeless contributions using GitHub issues.                                                             |
 | [uno](https://github.com/LizardByte/uno)                                         | ![GitHub Stars](https://img.shields.io/github/stars/LizardByte/uno?style=for-the-badge)                                  ![GitHub Top Language](https://img.shields.io/github/languages/top/LizardByte/uno?style=for-the-badge)                                  ![GitHub issues](https://img.shields.io/github/issues-raw/LizardByte/uno?style=for-the-badge)                                  <br> Cache LizardByte data using GitHub actions. Data to be consumed by our Website, Documentation, Discord bot, etc.                                                         |
 
-## Open Source Contributions
+## Other Open Source Contributions
+
+
+### Media Players/Servers
+
+#### Plex
 
 <a href="https://github.com/pkkid/python-plexapi/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
@@ -61,17 +66,38 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/pkkid/python-plexapi?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=pkkid/python-plexapi" />
 </a>
 
-<a href="https://github.com/hapakaien/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="hapakaien/archlinux-package-action"
-    src="https://img.shields.io/github/issues-search/hapakaien/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=hapakaien/archlinux-package-action" />
-</a>
+#### Jellyfin
 
 <a href="https://github.com/oddstr13/jellyfin-plugin-repository-manager/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="oddstr13/jellyfin-plugin-repository-manager"
     src="https://img.shields.io/github/issues-search/oddstr13/jellyfin-plugin-repository-manager?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=oddstr13/jellyfin-plugin-repository-manager" />
 </a>
+
+<a href="https://github.com/jellyfin/jellyfin.org/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="jellyfin/jellyfin.org"
+    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin.org" />
+</a>
+
+<a href="https://github.com/jellyfin/jellyfin-plugin-template/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="jellyfin/jellyfin-plugin-template"
+    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin-plugin-template?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin-plugin-template" />
+</a>
+
+
+### Gaming
+
+#### IGDB
+
+<a href="https://github.com/twitchtv/igdb-api-python/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="twitchtv/igdb-api-python"
+    src="https://img.shields.io/github/issues-search/twitchtv/igdb-api-python?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=igdb&label=twitchtv/igdb-api-python" />
+</a>
+
+#### RetroArch
 
 <a href="https://github.com/libretro/libretro-super/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
@@ -85,17 +111,7 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/libretro/retroarch-joypad-autoconfig?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/retroarch-joypad-autoconfig" />
 </a>
 
-<a href="https://github.com/twitchtv/igdb-api-python/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="twitchtv/igdb-api-python"
-    src="https://img.shields.io/github/issues-search/twitchtv/igdb-api-python?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=igdb&label=twitchtv/igdb-api-python" />
-</a>
-
-<a href="https://github.com/jellyfin/jellyfin.org/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="jellyfin/jellyfin.org"
-    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin.org" />
-</a>
+#### Cloud Gaming
 
 <a href="https://github.com/games-on-whales/gow/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
@@ -103,10 +119,21 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/games-on-whales/gow?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/gow" />
 </a>
 
-<a href="https://github.com/AppImage/docs.appimage.org/pulls?q=is%3Apr+author%3AReenigneArcher">
+#### Misc
+
+<a href="https://github.com/hugo19941994/auto-datfile-generator/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="AppImage/docs.appimage.org"
-    src="https://img.shields.io/github/issues-search/AppImage/docs.appimage.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/docs.appimage.org" />
+    alt="hugo19941994/auto-datfile-generator"
+    src="https://img.shields.io/github/issues-search/hugo19941994/auto-datfile-generator?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=hugo19941994/auto-datfile-generator" />
+</a>
+
+
+### Python
+
+<a href="https://github.com/breathe-doc/breathe/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="breathe-doc/breathe"
+    src="https://img.shields.io/github/issues-search/breathe-doc/breathe?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=sphinx&label=breathe-doc/breathe" />
 </a>
 
 <a href="https://github.com/ytdl-org/youtube-dl/pulls?q=is%3Apr+author%3AReenigneArcher">
@@ -115,34 +142,10 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/ytdl-org/youtube-dl?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=youtube&label=ytdl-org/youtube-dl" />
 </a>
 
-<a href="https://github.com/breathe-doc/breathe/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="breathe-doc/breathe"
-    src="https://img.shields.io/github/issues-search/breathe-doc/breathe?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=sphinx&label=breathe-doc/breathe" />
-</a>
-
-<a href="https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="moralmunky/Home-Assistant-Mail-And-Packages"
-    src="https://img.shields.io/github/issues-search/moralmunky/Home-Assistant-Mail-And-Packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homeassistant&label=moralmunky/Home-Assistant-Mail-And-Packages" />
-</a>
-
-<a href="https://github.com/hugo19941994/auto-datfile-generator/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="hugo19941994/auto-datfile-generator"
-    src="https://img.shields.io/github/issues-search/hugo19941994/auto-datfile-generator?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=hugo19941994/auto-datfile-generator" />
-</a>
-
 <a href="https://github.com/openatx/adbutils/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="openatx/adbutils"
     src="https://img.shields.io/github/issues-search/openatx/adbutils?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android&label=openatx/adbutils" />
-</a>
-
-<a href="https://github.com/AppImage/appimage.github.io/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="AppImage/appimage.github.io"
-    src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
 </a>
 
 <a href="https://github.com/ansible/ansible-lint/pulls?q=is%3Apr+author%3AReenigneArcher">
@@ -150,6 +153,39 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     alt="ansible/ansible-lint"
     src="https://img.shields.io/github/issues-search/ansible/ansible-lint?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=ansible&label=ansible/ansible-lint" />
 </a>
+
+
+
+
+### GitHub Actions
+
+<a href="https://github.com/hapakaien/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="hapakaien/archlinux-package-action"
+    src="https://img.shields.io/github/issues-search/hapakaien/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=hapakaien/archlinux-package-action" />
+</a>
+
+<a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="mshick/add-pr-comment"
+    src="https://img.shields.io/github/issues-search/mshick/add-pr-comment?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=mshick/add-pr-comment" />
+</a>
+
+
+### Homelab
+
+#### HomeAssistant
+
+<a href="https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="moralmunky/Home-Assistant-Mail-And-Packages"
+    src="https://img.shields.io/github/issues-search/moralmunky/Home-Assistant-Mail-And-Packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homeassistant&label=moralmunky/Home-Assistant-Mail-And-Packages" />
+</a>
+
+
+### Misc Linux
+
+#### Docker
 
 <a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
@@ -163,8 +199,16 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/linuxserver/docker-mods?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-mods" />
 </a>
 
-<a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
+#### AppImage
+
+<a href="https://github.com/AppImage/docs.appimage.org/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="mshick/add-pr-comment"
-    src="https://img.shields.io/github/issues-search/mshick/add-pr-comment?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=mshick/add-pr-comment" />
+    alt="AppImage/docs.appimage.org"
+    src="https://img.shields.io/github/issues-search/AppImage/docs.appimage.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/docs.appimage.org" />
+</a>
+
+<a href="https://github.com/AppImage/appimage.github.io/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="AppImage/appimage.github.io"
+    src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
 </a>
