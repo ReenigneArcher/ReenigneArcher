@@ -66,6 +66,12 @@ I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated
     src="https://img.shields.io/github/issues-search/pkkid/python-plexapi?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=pkkid/python-plexapi" />
 </a>
 
+<a href="https://github.com/LukeHagar/plex-docs/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="LukeHagar/plex-docs"
+    src="https://img.shields.io/github/issues-search/LukeHagar/plex-docs?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=LukeHagar/plex-docs" />
+</a>
+
 #### Jellyfin
 
 <a href="https://github.com/oddstr13/jellyfin-plugin-repository-manager/pulls?q=is%3Apr+author%3AReenigneArcher">
