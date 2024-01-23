@@ -2,7 +2,7 @@
 
 I want to automate every single thing.
 
-I maintain [LizardByte](https://github.com/LizrdByte), an organization dedicated to cloud gaming solutions.
+I maintain [LizardByte](https://github.com/LizardByte), an organization dedicated to cloud gaming solutions.
 
 <picture>
   <source
