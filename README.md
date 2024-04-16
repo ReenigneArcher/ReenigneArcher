@@ -192,6 +192,14 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 
 ### Misc
 
+#### Codecov
+
+<a href="https://github.com/codecov/codecov-action/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="codecov/codecov-action"
+    src="https://img.shields.io/github/issues-search/codecov/codecov-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=codecov&label=codecov/codecov-action" />
+</a>
+
 #### Docker
 
 <a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
