@@ -166,10 +166,16 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 
 ### GitHub Actions
 
-<a href="https://github.com/hapakaien/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
+<a href="https://github.com/dev-drprasad/delete-older-releases/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
-    alt="hapakaien/archlinux-package-action"
-    src="https://img.shields.io/github/issues-search/hapakaien/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=hapakaien/archlinux-package-action" />
+    alt="dev-drprasad/delete-older-releases"
+    src="https://img.shields.io/github/issues-search/dev-drprasad/delete-older-releases?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=dev-drprasad/delete-older-releases" />
+</a>
+
+<a href="https://github.com/heyhusen/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="hheyhusen/archlinux-package-action"
+    src="https://img.shields.io/github/issues-search/heyhusen/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=heyhusen/archlinux-package-action" />
 </a>
 
 <a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
