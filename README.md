@@ -120,6 +120,12 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 
 #### Cloud Gaming
 
+<a href="https://github.com/games-on-whales/inputtino/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="games-on-whales/inputtino"
+    src="https://img.shields.io/github/issues-search/games-on-whales/inputtino?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/inputtino" />
+</a>
+
 <a href="https://github.com/games-on-whales/gow/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="games-on-whales/gow"
