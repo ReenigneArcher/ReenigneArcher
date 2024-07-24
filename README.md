@@ -120,6 +120,18 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 
 #### Cloud Gaming
 
+<a href="https://github.com/moonlight-stream/moonlight-android/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="moonlight-stream/moonlight-android"
+    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-android?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android%20studio&label=moonlight-stream/moonlight-android" />
+</a>
+
+<a href="https://github.com/TheElixZammuto/moonlight-xbox/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="TheElixZammuto/moonlight-xbox"
+    src="https://img.shields.io/github/issues-search/TheElixZammuto/moonlight-xbox?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=TheElixZammuto/moonlight-xbox" />
+</a>
+
 <a href="https://github.com/games-on-whales/inputtino/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="games-on-whales/inputtino"
