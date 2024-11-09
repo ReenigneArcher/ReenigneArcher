@@ -247,6 +247,14 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
 </a>
 
+#### Flatpak
+
+<a href="https://github.com/flatpak/flatpak-builder-tools/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="flatpak/flatpak-builder-tools"
+    src="https://img.shields.io/github/issues-search/flatpak/flatpak-builder-tools?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=flatpak/flatpak-builder-tools" />
+</a>
+
 #### MSYS
 
 <a href="https://github.com/msys2/MINGW-packages/pulls?q=is%3Apr+author%3AReenigneArcher">
