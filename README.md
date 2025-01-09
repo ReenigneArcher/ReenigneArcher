@@ -171,6 +171,12 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 
 ### GitHub Actions
 
+<a href="https://github.com/git-for-windows/rss-to-issues/pull/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="git-for-windows/rss-to-issues"
+    src="https://img.shields.io/github/issues-search/git-for-windows/rss-to-issues?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=git&label=git-for-windows/rss-to-issues" />
+</a>
+
 <a href="https://github.com/dev-drprasad/delete-older-releases/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="dev-drprasad/delete-older-releases"
