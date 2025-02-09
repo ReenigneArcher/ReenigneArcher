@@ -217,6 +217,14 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     src="https://img.shields.io/github/issues-search/codecov/codecov-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=codecov&label=codecov/codecov-action" />
 </a>
 
+#### Devicons
+
+<a href="https://github.com/devicons/devicon/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="devicons/devicon"
+    src="https://img.shields.io/github/issues-search/devicons/devicon?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=devicons/devicon" />
+</a>
+
 #### Docker
 
 <a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
