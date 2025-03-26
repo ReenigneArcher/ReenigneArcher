@@ -276,3 +276,17 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     alt="msys2/MINGW-packages"
     src="https://img.shields.io/github/issues-search/msys2/MINGW-packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=msys2/MINGW-packages" />
 </a>
+
+#### ReadTheDocs
+
+<a href="https://github.com/readthedocs/ext-theme/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="readthedocs/ext-theme"
+    src="https://img.shields.io/github/issues-search/readthedocs/ext-theme?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=readthedocs&label=readthedocs/ext-theme" />
+</a>
+
+<a href="https://github.com/readthedocs/website/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="readthedocs/website"
+    src="https://img.shields.io/github/issues-search/readthedocs/website?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=readthedocs&label=readthedocs/website" />
+</a>
