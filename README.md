@@ -110,7 +110,7 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
 <a href="https://github.com/moonlight-common-c/moonlight-common-c/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="moonlight-stream/moonlight-common-c"
-    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-common-c?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github%20studio&label=moonlight-stream/moonlight-common-c" />
+    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-common-c?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=moonlight-stream/moonlight-common-c" />
 </a>
 
 <a href="https://github.com/TheElixZammuto/moonlight-xbox/pulls?q=is%3Apr+author%3AReenigneArcher">
