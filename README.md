@@ -162,6 +162,12 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     src="https://img.shields.io/github/issues-search/ytdl-org/youtube-dl?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=youtube&label=ytdl-org/youtube-dl" />
 </a>
 
+<a href="https://github.com/PyGithub/PyGithub/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="PyGithub/PyGithub"
+    src="https://img.shields.io/github/issues-search/PyGithub/PyGithub?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=PyGithub/PyGithub" />
+</a>
+
 <a href="https://github.com/openatx/adbutils/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="openatx/adbutils"
