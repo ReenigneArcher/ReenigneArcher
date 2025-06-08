@@ -113,6 +113,12 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-common-c?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=moonlight-stream/moonlight-common-c" />
 </a>
 
+<a href="https://github.com/moonlight-common-c/moonlight-docs/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="moonlight-stream/moonlight-docs"
+    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-docs?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=moonlight-stream/moonlight-docs" />
+</a>
+
 <a href="https://github.com/TheElixZammuto/moonlight-xbox/pulls?q=is%3Apr+author%3AReenigneArcher">
   <img
     alt="TheElixZammuto/moonlight-xbox"
