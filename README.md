@@ -299,6 +299,14 @@ I maintain [LizardByte](https://github.com/LizardByte), an organization dedicate
     src="https://img.shields.io/github/issues-search/flatpak/flatpak-builder-tools?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=flatpak/flatpak-builder-tools" />
 </a>
 
+#### Homebrew
+
+<a href="https://github.com/Homebrew/homebrew-core/pulls?q=is%3Apr+author%3AReenigneArcher">
+  <img
+    alt="Homebrew/homebrew-core"
+    src="https://img.shields.io/github/issues-search/Homebrew/homebrew-core?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homebrew&label=Homebrew/homebrew-core" />
+</a>
+
 #### MSYS
 
 <a href="https://github.com/msys2/MINGW-packages/pulls?q=is%3Apr+author%3AReenigneArcher">
