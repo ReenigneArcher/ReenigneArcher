@@ -1,336 +1,93 @@
-# ReenigneArcher
-
-I want to automate every single thing.
-
-I maintain [LizardByte](https://github.com/LizardByte), an organization dedicated to cloud gaming solutions.
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&theme=dark&text_color=ffffff"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000" />
-</picture>
-<br>
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=ReenigneArcher&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=ReenigneArcher"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=ReenigneArcher" />
-</picture>
-
-## Top LizardByte Projects
-
-| Project                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [GSMS](https://github.com/LizardByte/GSMS)         | ![GitHub Stars](https://img.shields.io/github/stars/LizardByte/GSMS?style=for-the-badge)                                 ![GitHub Top Language](https://img.shields.io/github/languages/top/LizardByte/GSMS?style=for-the-badge)                                 ![GitHub issues](https://img.shields.io/github/issues-raw/LizardByte/GSMS?style=for-the-badge)                                 <br> GameStream migration service for Sunshine.  |
-| [Sunshine](https://github.com/LizardByte/Sunshine) | ![GitHub Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=for-the-badge)                             ![GitHub Top Language](https://img.shields.io/github/languages/top/LizardByte/Sunshine?style=for-the-badge)                             ![GitHub issues](https://img.shields.io/github/issues-raw/LizardByte/Sunshine?style=for-the-badge)                             <br> Self-hosted game stream host for Moonlight. |
-
-## Other Open Source Contributions
-
-
-### Media Players/Servers
-
-#### Plex
-
-<a href="https://github.com/pkkid/python-plexapi/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="pkkid/python-plexapi"
-    src="https://img.shields.io/github/issues-search/pkkid/python-plexapi?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=pkkid/python-plexapi" />
-</a>
-
-<a href="https://github.com/LukeHagar/plex-docs/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="LukeHagar/plex-docs"
-    src="https://img.shields.io/github/issues-search/LukeHagar/plex-docs?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=plex&label=LukeHagar/plex-docs" />
-</a>
-
-#### Jellyfin
-
-<a href="https://github.com/oddstr13/jellyfin-plugin-repository-manager/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="oddstr13/jellyfin-plugin-repository-manager"
-    src="https://img.shields.io/github/issues-search/oddstr13/jellyfin-plugin-repository-manager?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=oddstr13/jellyfin-plugin-repository-manager" />
-</a>
-
-<a href="https://github.com/jellyfin/jellyfin.org/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="jellyfin/jellyfin.org"
-    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin.org" />
-</a>
-
-<a href="https://github.com/jellyfin/jellyfin-plugin-template/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="jellyfin/jellyfin-plugin-template"
-    src="https://img.shields.io/github/issues-search/jellyfin/jellyfin-plugin-template?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jellyfin&label=jellyfin/jellyfin-plugin-template" />
-</a>
-
-
-### Gaming
-
-#### IGDB
-
-<a href="https://github.com/twitchtv/igdb-api-python/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="twitchtv/igdb-api-python"
-    src="https://img.shields.io/github/issues-search/twitchtv/igdb-api-python?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=igdb&label=twitchtv/igdb-api-python" />
-</a>
-
-#### RetroArch
-
-<a href="https://github.com/libretro/libretro-super/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="libretro/libretro-super"
-    src="https://img.shields.io/github/issues-search/libretro/libretro-super?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/libretro-super" />
-</a>
-
-<a href="https://github.com/libretro/retroarch-joypad-autoconfig/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="libretro/retroarch-joypad-autoconfig"
-    src="https://img.shields.io/github/issues-search/libretro/retroarch-joypad-autoconfig?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=retroarch&label=libretro/retroarch-joypad-autoconfig" />
-</a>
-
-#### Cloud Gaming
-
-<a href="https://github.com/moonlight-stream/moonlight-android/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="moonlight-stream/moonlight-android"
-    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-android?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android%20studio&label=moonlight-stream/moonlight-android" />
-</a>
-
-<a href="https://github.com/moonlight-common-c/moonlight-common-c/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="moonlight-stream/moonlight-common-c"
-    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-common-c?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=moonlight-stream/moonlight-common-c" />
-</a>
-
-<a href="https://github.com/moonlight-common-c/moonlight-docs/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="moonlight-stream/moonlight-docs"
-    src="https://img.shields.io/github/issues-search/moonlight-stream/moonlight-docs?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=moonlight-stream/moonlight-docs" />
-</a>
-
-<a href="https://github.com/TheElixZammuto/moonlight-xbox/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="TheElixZammuto/moonlight-xbox"
-    src="https://img.shields.io/github/issues-search/TheElixZammuto/moonlight-xbox?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=TheElixZammuto/moonlight-xbox" />
-</a>
-
-<a href="https://github.com/games-on-whales/inputtino/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="games-on-whales/inputtino"
-    src="https://img.shields.io/github/issues-search/games-on-whales/inputtino?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/inputtino" />
-</a>
-
-<a href="https://github.com/games-on-whales/gow/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="games-on-whales/gow"
-    src="https://img.shields.io/github/issues-search/games-on-whales/gow?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=games-on-whales/gow" />
-</a>
-
-#### Xbox
-
-<a href="https://github.com/XboxDev/nxdk/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="XboxDev/nxdk"
-    src="https://img.shields.io/github/issues-search/XboxDev/nxdk?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=XboxDev/nxdk" />
-</a>
-
-#### Misc
-
-<a href="https://github.com/hugo19941994/auto-datfile-generator/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="hugo19941994/auto-datfile-generator"
-    src="https://img.shields.io/github/issues-search/hugo19941994/auto-datfile-generator?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=hugo19941994/auto-datfile-generator" />
-</a>
-
-
-### Python
-
-<a href="https://github.com/breathe-doc/breathe/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="breathe-doc/breathe"
-    src="https://img.shields.io/github/issues-search/breathe-doc/breathe?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=sphinx&label=breathe-doc/breathe" />
-</a>
-
-<a href="https://github.com/ytdl-org/youtube-dl/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="ytdl-org/youtube-dl"
-    src="https://img.shields.io/github/issues-search/ytdl-org/youtube-dl?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=youtube&label=ytdl-org/youtube-dl" />
-</a>
-
-<a href="https://github.com/PyGithub/PyGithub/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="PyGithub/PyGithub"
-    src="https://img.shields.io/github/issues-search/PyGithub/PyGithub?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=PyGithub/PyGithub" />
-</a>
-
-<a href="https://github.com/openatx/adbutils/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="openatx/adbutils"
-    src="https://img.shields.io/github/issues-search/openatx/adbutils?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=android&label=openatx/adbutils" />
-</a>
-
-<a href="https://github.com/ansible/ansible-lint/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="ansible/ansible-lint"
-    src="https://img.shields.io/github/issues-search/ansible/ansible-lint?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=ansible&label=ansible/ansible-lint" />
-</a>
-
-
-### GitHub Actions
-
-<a href="https://github.com/dev-drprasad/delete-older-releases/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="dev-drprasad/delete-older-releases"
-    src="https://img.shields.io/github/issues-search/dev-drprasad/delete-older-releases?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=dev-drprasad/delete-older-releases" />
-</a>
-
-<a href="https://github.com/easimon/maximize-build-space/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="easimon/maximize-build-space"
-    src="https://img.shields.io/github/issues-search/easimon/maximize-build-space?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=easimon/maximize-build-space" />
-</a>
-
-<a href="https://github.com/git-for-windows/rss-to-issues/pull/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="git-for-windows/rss-to-issues"
-    src="https://img.shields.io/github/issues-search/git-for-windows/rss-to-issues?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=git&label=git-for-windows/rss-to-issues" />
-</a>
-
-<a href="https://github.com/heyhusen/archlinux-package-action/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="hheyhusen/archlinux-package-action"
-    src="https://img.shields.io/github/issues-search/heyhusen/archlinux-package-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=archlinux&label=heyhusen/archlinux-package-action" />
-</a>
-
-<a href="https://github.com/mshick/add-pr-comment/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="mshick/add-pr-comment"
-    src="https://img.shields.io/github/issues-search/mshick/add-pr-comment?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=mshick/add-pr-comment" />
-</a>
-
-<a href="https://github.com/nearform-actions/github-action-notify-twitter/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="nearform-actions/github-action-notify-twitter"
-    src="https://img.shields.io/github/issues-search/nearform-actions/github-action-notify-twitter?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=x&label=nearform-actions/github-action-notify-twitter" />
-</a>
-
-<a href="https://github.com/ShaMan123/gha-form-dropdown-options/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="ShaMan123/gha-form-dropdown-options"
-    src="https://img.shields.io/github/issues-search/ShaMan123/gha-form-dropdown-options?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github-actions&label=ShaMan123/gha-form-dropdown-options" />
-</a>
-
-
-### Homelab
-
-#### HomeAssistant
-
-<a href="https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="moralmunky/Home-Assistant-Mail-And-Packages"
-    src="https://img.shields.io/github/issues-search/moralmunky/Home-Assistant-Mail-And-Packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homeassistant&label=moralmunky/Home-Assistant-Mail-And-Packages" />
-</a>
-
-
-### Misc
-
-#### Codecov
-
-<a href="https://github.com/codecov/codecov-action/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="codecov/codecov-action"
-    src="https://img.shields.io/github/issues-search/codecov/codecov-action?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=codecov&label=codecov/codecov-action" />
-</a>
-
-#### Devicons
-
-<a href="https://github.com/devicons/devicon/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="devicons/devicon"
-    src="https://img.shields.io/github/issues-search/devicons/devicon?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=devicons/devicon" />
-</a>
-
-#### Docker
-
-<a href="https://github.com/linuxserver/docker-jellyfin/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="linuxserver/docker-jellyfin"
-    src="https://img.shields.io/github/issues-search/linuxserver/docker-jellyfin?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-jellyfin" />
-</a>
-
-<a href="https://github.com/linuxserver/docker-mods/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="linuxserver/docker-mods"
-    src="https://img.shields.io/github/issues-search/linuxserver/docker-mods?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=docker&label=linuxserver/docker-mods" />
-</a>
-
-#### Jekyll
-
-<a href="https://github.com/daattali/beautiful-jekyll/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="daattali/beautiful-jekyll"
-    src="https://img.shields.io/github/issues-search/daattali/beautiful-jekyll?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=jekyll&label=daattali/beautiful-jekyll" />
-</a>
-
-#### AppImage
-
-<a href="https://github.com/AppImage/docs.appimage.org/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="AppImage/docs.appimage.org"
-    src="https://img.shields.io/github/issues-search/AppImage/docs.appimage.org?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/docs.appimage.org" />
-</a>
-
-<a href="https://github.com/AppImage/appimage.github.io/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="AppImage/appimage.github.io"
-    src="https://img.shields.io/github/issues-search/AppImage/appimage.github.io?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=AppImage/appimage.github.io" />
-</a>
-
-#### Flatpak
-
-<a href="https://github.com/flatpak/flatpak-builder-tools/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="flatpak/flatpak-builder-tools"
-    src="https://img.shields.io/github/issues-search/flatpak/flatpak-builder-tools?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=linux&label=flatpak/flatpak-builder-tools" />
-</a>
-
-#### Homebrew
-
-<a href="https://github.com/Homebrew/homebrew-core/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="Homebrew/homebrew-core"
-    src="https://img.shields.io/github/issues-search/Homebrew/homebrew-core?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=homebrew&label=Homebrew/homebrew-core" />
-</a>
-
-#### MSYS
-
-<a href="https://github.com/msys2/MINGW-packages/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="msys2/MINGW-packages"
-    src="https://img.shields.io/github/issues-search/msys2/MINGW-packages?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=github&label=msys2/MINGW-packages" />
-</a>
-
-#### ReadTheDocs
-
-<a href="https://github.com/readthedocs/ext-theme/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="readthedocs/ext-theme"
-    src="https://img.shields.io/github/issues-search/readthedocs/ext-theme?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=readthedocs&label=readthedocs/ext-theme" />
-</a>
-
-<a href="https://github.com/readthedocs/website/pulls?q=is%3Apr+author%3AReenigneArcher">
-  <img
-    alt="readthedocs/website"
-    src="https://img.shields.io/github/issues-search/readthedocs/website?query=author%3AReenigneArcher%20is%3Apr&style=for-the-badge&logo=readthedocs&label=readthedocs/website" />
-</a>
+<div align="center">
+  <img src="/banner.png"  alt="Profile Banner"/>
+  <h1 align="center">Hello, I'm David...</h1>
+  <h4 align="center">Self-taught, code anything developer.</h4>
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/671126231529422877/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.github.com/ReenigneArcher/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://gitlab.com/ReenigneArcher/"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=" alt="GitLab"></a>
+  <a href="https://www.linkedin.com/in/davidlane1987/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=data:image/png;base64,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" alt="LinkedIn"></a>
+  <a href="https://www.reddit.com/user/ReenigneArcher/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://stackoverflow.com/users/11214013/reenignearcher/"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://x.com/ReenigneArcher/"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+</div>
+
+<div align="center">
+[
+  <a href="#-about-me">About Me</a> •
+  <a href="#-donate">Donate</a> •
+  <a href="#-stats">Stats</a>
+]
+</div>
+
+## 🧑‍💻 About Me
+
+```console
+$ whoami
+┌─────────────────────────────────────────────────────────────┐
+│ Loading profile...                                          │
+└─────────────────────────────────────────────────────────────┘
+
+100% [████████████████████] 4/4   [Marine Corps]
+100% [████████████████████] 4/4   [Penn State]
+100% [████████████████████] 13/13 [Mechanical Engineer]
+20%  [████░░░░░░░░░░░░░░░░] 5/25  [Programmer]
+```
+
+I started my adult life as a **US Marine** during Operation Iraqi Freedom. I left the service as a Corporal of Marines.
+After the military I earned an Associate of Science, followed by a Bachelor of Science from **Penn State University**.
+Both degrees are in Mechanical Engineering Technology which led me to start my career as a Mechanical Engineer.
+
+During my time as a **Mechanical Engineer** I specialized in R&D and Product Development, working on new products such
+as automotive RF connectors, fiber optic connectors and components. I became a CAD and PDM administrator, which is
+ultimately what got me interested in programming. Initially just automating administration with scripts and automations
+with VBA and the like.
+
+Then the 2020 pandemic hit, and having a lot more free time, I decided to begin teaching myself how to program.
+I started out with Python, mostly writing plugins for Plex Media Server.
+Since then, it has been difficult to separate me from my keyboard.
+In 2023, I took a chance and left my Mechanical Engineering career to pursue programming full-time. So far, no regrets!
+
+Outside of work, I'm a husband and father. I also maintain **[LizardByte](https://github.com/LizardByte)**,
+an organization focused on self-hosted services such as game streaming. Open source has been an interesting journey,
+and I'm excited to see where it takes me next!
+
+## 💚 Donate
+
+If you'd like to support my work you can do so via any of the following platforms:
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/reenignearcher?label=Github%20Sponsors&style=for-the-badge&color=green&logo=githubsponsors)](https://github.com/sponsors/ReenigneArcher)
+[![LizardByte Sponsors](https://img.shields.io/github/sponsors/lizardbyte?label=LizardByte%20Sponsors&style=for-the-badge&color=green&logo=githubsponsors)](https://github.com/sponsors/LizardByte)
+[![Patreon](https://img.shields.io/badge/dynamic/json?color=green&label=Patreon&style=for-the-badge&query=patron_count&url=https%3A%2F%2Fapp.lizardbyte.dev%2Fdashboard%2Fpatreon%2FLizardByte.json&logo=patreon)](https://www.patreon.com/LizardByte)
+[![PayPal](https://img.shields.io/badge/donate-green.svg?style=for-the-badge&label=PayPal&message=Donate&color=green&logo=paypal)](https://www.paypal.com/paypalme/ReenigneArcher)
+
+## 📈 Stats
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&theme=dark&text_color=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=reenignearcher&show_icons=true&icon_color=fb8c00&title_color=fb8c00&hide=stars&text_color=000000" />
+  </picture>
+  <br>
+
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=ReenigneArcher&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=ReenigneArcher"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=ReenigneArcher" />
+  </picture>
+</div>
