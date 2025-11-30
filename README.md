@@ -63,7 +63,7 @@ If you'd like to support my work you can do so via any of the following platform
 [![Patreon](https://img.shields.io/badge/dynamic/json?color=green&label=Patreon&style=for-the-badge&query=patron_count&url=https%3A%2F%2Fapp.lizardbyte.dev%2Fdashboard%2Fpatreon%2FLizardByte.json&logo=patreon)](https://www.patreon.com/LizardByte)
 [![PayPal](https://img.shields.io/badge/donate-green.svg?style=for-the-badge&label=PayPal&message=Donate&color=green&logo=paypal)](https://www.paypal.com/paypalme/ReenigneArcher)
 
-## 📈 Stats
+## 📈 Contributions & Stats
 
 <div align="center">
   <picture>
@@ -91,3 +91,7 @@ If you'd like to support my work you can do so via any of the following platform
     <img src="https://streak-stats.demolab.com?user=ReenigneArcher" />
   </picture>
 </div>
+
+<p align="center">
+  <img src='https://cdn.jsdelivr.net/gh/LizardByte/contributors@dist/githubContributions.ReenigneArcher.svg' alt="GitHub contributions"/>
+</p>
